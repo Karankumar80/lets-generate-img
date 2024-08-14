@@ -225,3 +225,14 @@ button:disabled, button[disabled] {
     border-color: #675afe;
     transform: scale(1.05);
 }
+.header {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    /* Optional: add more styles like padding or background */
+}
+
+.logo {
+    width: 150px; /* Adjust size */
+    height: auto; /* Maintain aspect ratio */
+}
